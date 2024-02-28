@@ -22,7 +22,7 @@ API_HASH = os.environ.get("e550c215a6720df4c747ddf8febf1686", "")
 CHANNEL_ID = int(os.environ.get("-1002034021960", ""))
 
 #OWNER ID
-OWNER_ID = int(os.environ.get("5882105086", ""))
+OWNER_ID = int(os.environ.get("", "5882105086"))
 
 #Port
 PORT = os.environ.get("PORT", "https://srv22709618.ultasrv.net/")
